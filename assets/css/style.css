@@ -1,0 +1,37 @@
+body{
+    width:  960px;
+    margin: auto;
+    background: "assets/images/"
+}
+
+.logo{
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+  }
+
+  .nav{
+      margin-top: 25px;
+  }
+
+  .logo-header{
+      background-color:#fff;
+      width:100%;
+      margin:0;
+      height:110px;
+  }
+
+  #image{
+      height:300px;
+      width:300px;
+  }
+  
+  
